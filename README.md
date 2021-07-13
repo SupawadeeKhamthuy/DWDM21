@@ -12,4 +12,4 @@ Data Warehouse &amp; Data Mining 2021
 
 4. นางสาวพลอยบงกช แสงโทโพธิ์
 
-![grading.]("DWDM21.jpg")
+ ![Coursework & Grading](DWDM21.jpg)
