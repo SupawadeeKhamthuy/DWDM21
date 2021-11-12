@@ -20,7 +20,7 @@ Data Warehouse &amp; Data Mining 2021
 
 วิชา DATA WAREHOUSE AND DATA MINING (คลังข้อมูลและการทำเหมืองข้อมูล)
 
-* บทที่ 1 [Introduction] (https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter1.pdf)
+* บทที่ 1 [Introduction](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter1.pdf)
   * Why Data Mining ? (ทำไมต้องมีการทำเหมืองข้อมูล)
   * What is Data Mining ? (อะไรคือการทำเหมืองข้อมูล)
   * Knowledge Discovery (KDD) Process
