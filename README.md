@@ -95,7 +95,7 @@ Data Warehouse &amp; Data Mining 2021
      * [PD] save ตารางเอาไปใช้ที่อื่น
      * [PD]การสร้างตาราง
   
-  * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]
+  * บทที่ 4 Data Warehousing and On-line Anaalytical Processing
     * Basic Data Warehouse
       * คลังข้อมูลคืออะไร
       * วัตถุประสงค์ และ การบูรณาการ
@@ -114,10 +114,32 @@ Data Warehouse &amp; Data Mining 2021
       * Apriori
       * Support
 
+  * บทที่ 6 Classification
+    * [Desition Tree](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+      * Train Model
+      * plot tree
+      * Evaluation
+      * Random
+      * Advanced Tree
+      * TEST
+    * [KNN](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+      * Split Data
+      * Train Model
+      * Retrain & Evaluate
+      * Neural Network
+    * [Evaluation](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+      * Split Data หรือ แบ่ง Data
+      * สร้าง Model ทำนาย
+      * Evaluation
 
-
-
-
+  * บทที่ 7 [Clustering](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter7_Classification_HW.pdf)
+    * [Clustering](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chap8_Clustering.ipynb)
+      * K-means
+      * Generate Data
+      * Clustering
+      * Example Application (Color Quantization)
+      * การนับจำนวนสี
+  
 
 
 
