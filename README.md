@@ -95,8 +95,25 @@ Data Warehouse &amp; Data Mining 2021
      * [PD] save ตารางเอาไปใช้ที่อื่น
      * [PD]การสร้างตาราง
   
-  * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]()
+  * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]
+    * Basic Data Warehouse
+      * คลังข้อมูลคืออะไร
+      * วัตถุประสงค์ และ การบูรณาการ
+    * Data Cube and OLAP
+      * OLTP & OLAP
+      * Data Cubes
+      * Conceptual Modeling of Data Warehouse
+    * การออกแบบ และการใช้งานคลังข้อมูล
+    * ความสำคัญของคลังข้อมูล
    
+  * บทที่ 5 [Association_Rules](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+    * Besic Concepts
+      * Plot graph of Itemsets
+      * Frequence Itemsets to Association Rule
+    * Efficient Pattern Mining Methods
+      * Apriori
+      * Support
+
 
 
 
