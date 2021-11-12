@@ -80,9 +80,23 @@ Data Warehouse &amp; Data Mining 2021
      * Handling Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
      * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
      * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
-   * Panda
+   * PANDA
      * Select data by values [PD]
-       * สร้าง list ของ boolean
+     * ใช้ & (and) และ | (or) ในการรวม list ของ boolean
+   * Quiz 4
+     * การต่อตารางแนวแกน Y [PD]
+     * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
+     * การเรียงข้อมูล[PD]
+     * utlier
+   * Quiz 5
+     * Pandas' looping(.iterrows)
+   * การรวม 2 ตารางโดยใช้ .merge()
+     * Group by (pandas)
+     * [PD] save ตารางเอาไปใช้ที่อื่น
+     * [PD]การสร้างตาราง
+  
+  * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing]()
+   
 
 
 
