@@ -29,3 +29,58 @@ Data Warehouse &amp; Data Mining 2021
     * Pattern Discovery (หารูปแบบที่ซ่อนในข้อมูล)
     * Classification (จำแนกข้อมูล)
     * Clustering (จัดกลุ่มข้อมูล)
+
+* บทที่ 2 [Getting to Know Your Data](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter2.1.pdf)
+  * [Basic Python](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+    * Variables
+    * Casting
+    * Data Structure
+      * วิธีสร้าง list
+    * Loop
+      * Nested loop
+      * Condition
+      * Function
+  * [Plot Data](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+    * Basic Data
+    * การใช้ .head() และ .tail()
+    * Boxplot
+    * Time Series Plot
+  * [Visualization](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Bar chart
+    * Histogram
+  * [Distance Numpy](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy Array
+      * สร้าง numpy array
+      * matrix transpose
+      * สร้าง matrix เริ่มต้น (zeros,ones)
+      * สร้าง matrix random ค่าเเบบมั่วๆ
+          * matrix properties
+      * Indexing & Slicing ชี้ตัวค่าในเมทริกซ์ยังไง
+      * Useful functions
+      * วนลูปเอง
+          * summation รวมค่าทุกค่าใน array
+    * Distance Matrix
+      * Euclidean Distance (L2-norm)
+      * Distance function
+      * Manhattan Distance (L1-norm)
+      * Distance of Binary Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
