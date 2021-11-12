@@ -66,7 +66,23 @@ Data Warehouse &amp; Data Mining 2021
       * Distance function
       * Manhattan Distance (L1-norm)
       * Distance of Binary Value
-
+ * บทที่ 3 [Preprocessing](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb) 
+   * Meta Data
+   * การชี้ข้อมูลในตาราง
+     * ชี้แบบธรรมดา
+     * ชี้แบบ .iloc[]
+   * Missing Value
+     * Handling Missing Value 1 (ลบค่า missing)
+       * การทำ dropna() ทำให้ข้อมูลหายไป กี่ %
+     * Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+       * การทำ dropna() แบบเลือก drop เฉพาะ column ที่เราสนใจ (age) ทำให้ข้อมูลหายไป กี่ %
+     * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+     * Handling Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+     * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
+     * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+   * Panda
+     * Select data by values [PD]
+       * สร้าง list ของ boolean
 
 
 
