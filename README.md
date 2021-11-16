@@ -94,17 +94,6 @@ Data Warehouse &amp; Data Mining 2021
      * Group by (pandas)
      * [PD] save ตารางเอาไปใช้ที่อื่น
      * [PD]การสร้างตาราง
-  
-  * บทที่ 4 Data Warehousing and On-line Anaalytical Processing
-    * Basic Data Warehouse
-      * คลังข้อมูลคืออะไร
-      * วัตถุประสงค์ และ การบูรณาการ
-    * Data Cube and OLAP
-      * OLTP & OLAP
-      * Data Cubes
-      * Conceptual Modeling of Data Warehouse
-    * การออกแบบ และการใช้งานคลังข้อมูล
-    * ความสำคัญของคลังข้อมูล
    
   * บทที่ 5 [Association_Rules](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
     * Besic Concepts
@@ -140,7 +129,9 @@ Data Warehouse &amp; Data Mining 2021
       * Example Application (Color Quantization)
       * การนับจำนวนสี
   
-
+  * [MiniExam](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/MiniExam.ipynb)
+  * [Project](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/New_Project.ipynb)
+      * [สื่อนำเสนอ](https://github.com/SupawadeeKhamthuy/DWDM21/blob/main/Project_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B9%80%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%B5%E0%B9%89.pdf)
 
 
 
